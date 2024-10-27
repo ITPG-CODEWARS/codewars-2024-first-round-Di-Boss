@@ -1,6 +1,6 @@
 Експрес Пътуване 🚄
 
-![Експрес Пътуване Лого](Black%20and%20White%20Train%20Transportation%20Logo.png)
+![Експрес Пътуване Лого](images/Black%20and%20White%20Train%20Transportation%20Logo.png)
 
 За проекта
 
